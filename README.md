@@ -7,4 +7,4 @@
 
 #### Вот мы и создали ОС
 Посмотрим, правильно ли создались диски с помощью fdisk -l
-![alt text](Screenshot_1.png "Смотрим Диски")
+![alt text](Screenshots/Screenshot_1.png "Смотрим Диски")
